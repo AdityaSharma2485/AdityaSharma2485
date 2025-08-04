@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate Machine Learning enthusiast with a keen interest in natural language processing and computer vision, driven by the endless possibilities of leveraging AI to solve real-world problems.</h3>
 
-- 🔭 I have recently worked on [Emotion Classification using CNN and RNN with MFCCs as Features](https://github.com/AdityaSharma2485/emotion_classification)
+- 🔭 I have recently worked on [FewLearn](https://github.com/AdityaSharma2485/fewlearn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
